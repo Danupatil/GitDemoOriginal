@@ -65,9 +65,9 @@ public class SignUpPageStepDefinition {
 	 }
 	 else
 	 {
-		 System.out.println("SignUp was successful");
+		 
 	 }*/
-			
+	System.out.println("SignUp was successful");	
 	
 	   // driver.findElement(By.name("commit")).click();
 	}
